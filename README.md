@@ -1,2 +1,2 @@
 # Aligneatoire
-A game with dice and lines todo. Some bugs, working WIP.
+A game with dice and lines to do. Some bugs, working WIP.
